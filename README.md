@@ -1,5 +1,8 @@
 URL Shortener using Python
 
+In our daily lives, we often share links to various services like YouTube, Google Forms, news articles, and more. 
+This project was inspired by that common practice and helped me learn about the inner workings of URL shortening services like TinyURL and Bit.ly.
+
 - pyshorteners library is used to use services like TinyURL, bit.ly to shorten URL's.
 - 's' is the object that is created using Shortener class of pyshorteners library.
 - 's.tinyurl' selects the TinyURL shortening service.
